@@ -13,3 +13,5 @@ fun calculateAge() {
 fun main() {
     calculateAge()
 }
+
+main()

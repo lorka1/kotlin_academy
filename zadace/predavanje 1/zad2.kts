@@ -5,3 +5,5 @@ fun main() {
 
     println("$leftPersonName sits left from $myName and $rightPersonName sits right from $myName")
 }
+
+main()

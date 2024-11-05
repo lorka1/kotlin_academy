@@ -9,3 +9,5 @@ fun main() {
     }
     println("character  is a $result")
 }
+
+main()

@@ -5,3 +5,5 @@ fun main() {
     val max = maxOf(fstNumber, sndNumber, trdNumber)
     println("max: $max")
 }
+
+main()
